@@ -9,20 +9,20 @@ Clone the repository:
 
 sh
 
-Copy
+
 git clone https://github.com/your-username/react-router-demo.git
 cd react-router-demo
 Install dependencies:
 
 sh
 
-Copy
+
 npm install
 Start the development server:
 
 sh
 
-Copy
+
 npm start
 🖥️ Usage
 Open your browser and go to http://localhost:3000.
