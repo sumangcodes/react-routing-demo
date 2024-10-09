@@ -37,11 +37,6 @@ Open your browser and go to http://localhost:3000.
 🛡️ Tech Stack
 React
 
-react-router-dom
-
-📜 License
 
 
-This README should be clean, concise, and focused on the React Router demo. Ready to give it a go? 🚀
 
-Does this vibe match what you had in mind? Anything else to tweak? 🚀✨
