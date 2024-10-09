@@ -40,7 +40,7 @@ React
 react-router-dom
 
 📜 License
-This project is licensed under the MIT License.
+
 
 This README should be clean, concise, and focused on the React Router demo. Ready to give it a go? 🚀
 
