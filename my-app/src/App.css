@@ -1,0 +1,44 @@
+body {
+  font-family: 'Roboto Mono', monospace; /* Use the techie-geeky font */
+  background-color: #2d2d2d; /* Dark background for a techie feel */
+  color: #f5f5f5; /* Light text for contrast */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+a {
+  color: #61dafb; /* React logo color for links */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #21a0a0; /* A techie teal color */
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  color: #e0e0e0; /* Light grey text color */
+  margin: 10px 0;
+  text-align: center;
+}
+
+.container {
+  background-color: #3b3b3b; /* Slightly lighter grey for container */
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+}
